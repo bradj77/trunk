@@ -1,0 +1,6 @@
+{
+    "SERVER_PORT": 8000,
+    "SERVER_ICON": "./public/favicon.ico",
+    "SESSION_TIMEOUT": 300000, 
+    "PASSPORT_SECRET": "Br@d15dAm@N@ru13R05dAW0r1D"
+}
